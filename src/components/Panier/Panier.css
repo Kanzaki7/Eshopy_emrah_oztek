@@ -3,6 +3,7 @@
     height: 30%;
     /* border: 1px solid red; */
     margin-bottom: 50px;
+    color: white;
 }
 
 .panier {
@@ -17,6 +18,7 @@
 .panier img {
     height: 100%;
     width: 15%;
+    box-shadow: rgba(255, 255, 255, 0.4) 0px 30px 90px;
 }
 
 .btnRendre {
@@ -29,101 +31,6 @@
     align-items: center;
     border-radius: 5px;
     cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.714) 2.4px 2.4px 3.2px;
 }
 
-.divPaniers {
-    width: 70%;
-    height: 35%;
-    display: flex;
-    flex-direction: column;
-}
-
-.panierTitre {
-    width: 100%;
-    height: 50px;
-    border-bottom: 1px solid black;
-    /* margin: 0; */
-    padding-bottom: 10px;
-}
-
-.panierText {
-    font-size: 20px;
-    font-weight: bold;
-}
-
-.divPanier {
-    width: 45%;
-    height: 30%;
-    display: flex;
-    flex-direction: row;
-    /* border: 1px solid red; */
-    margin-bottom: 50px;
-}
-
-.divPanier1 {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    width: 80%;
-    gap: 10px;
-    /* border: 1px solid blue; */
-}
-
-
-.panierImage {
-    height: 100%;
-    width: 20%;
-}
-
-.img {
-    height: 100%;
-    width: 100%;
-}
-
-.titrePanier {
-    display: flex;
-    /* justify-content: center; */
-    align-items: center;
-    width: 80%;
-}
-
-.divPanier2 {
-    width: 20%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.btnRendre1 {
-    width: 100px;
-    height: 40px;
-    color: white;
-    background-color: gray;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 5px;
-    cursor: pointer;
-}
-.btnRendre2 {
-    width: 100px;
-    height: 40px;
-    color: white;
-    background-color: gray;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 5px;
-    cursor: pointer;
-}
-.btnRendre3 {
-    width: 100px;
-    height: 40px;
-    color: white;
-    background-color: gray;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 5px;
-    cursor: pointer;
-}
