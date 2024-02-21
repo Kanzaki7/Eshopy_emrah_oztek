@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Eshopy_emrah_oztek/static/css/main.6c70bfc6.css",
-    "main.js": "/Eshopy_emrah_oztek/static/js/main.8dee630d.js",
-    "index.html": "/Eshopy_emrah_oztek/index.html",
-    "main.6c70bfc6.css.map": "/Eshopy_emrah_oztek/static/css/main.6c70bfc6.css.map",
-    "main.8dee630d.js.map": "/Eshopy_emrah_oztek/static/js/main.8dee630d.js.map"
+    "main.css": "./static/css/main.6c70bfc6.css",
+    "main.js": "./static/js/main.3d3db223.js",
+    "index.html": "./index.html",
+    "main.6c70bfc6.css.map": "./static/css/main.6c70bfc6.css.map",
+    "main.3d3db223.js.map": "./static/js/main.3d3db223.js.map"
   },
   "entrypoints": [
     "static/css/main.6c70bfc6.css",
-    "static/js/main.8dee630d.js"
+    "static/js/main.3d3db223.js"
   ]
 }
