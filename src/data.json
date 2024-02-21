@@ -1,18 +1,18 @@
 [
     {
-        "img": "./eshopy/public/assets/img/champi1.jpg",
+        "img": "../assets/img/champi1.jpg",
         "nom": "Psilocybe Cubensis",
         "prix": 22.5,
         "stock": 5 
     },
     {
-        "img":"./eshopy/public/assets/img/champi2.webp",
+        "img":"../assets/img/champi2.webp",
         "nom": "Copelandia cyanescens",
         "prix": 17,
         "stock": 5
     },
     {
-        "img": "./eshopy/public/assets/img/champi3.webp",
+        "img": "../assets/img/champi3.webp",
         "nom": "Gymnopilus viridans",
         "prix": 39,
         "stock": 5
