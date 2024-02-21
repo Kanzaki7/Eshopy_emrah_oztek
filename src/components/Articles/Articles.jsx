@@ -7,7 +7,7 @@ export default function Articles(props) {
                 <div className='divImage'>
                     <img src={process.env.PUBLIC_URL + props.img} alt="" />
                 </div>
-                <div>
+                <div className={props.champi.stock === 1 ? 'divCouleurOrange' : props.champi.stock === 0 ? 'divCouleurRed' : null}>
                     <p className='boisson'>{props.nom}</p>
                     <p className='prix'>Prix : {props.prix}€</p>
                     <p className='stock'>Stock : {props.champi.stock} unités</p>
