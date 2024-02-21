@@ -61,7 +61,7 @@ function App() {
       </div>
       <div className='divPaniers'>
             <div className='panierTitre'>
-                <p className='panierText'>Panier :</p>
+                <p className='panierText'> 🛒 Panier :</p>
             </div>
         {
           panier.map((champi, index) =>

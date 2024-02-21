@@ -15,10 +15,9 @@
 .divArgent {
     width: 70%;
     height: 80px;
-    text-shadow: 10px 10px 25px rgb(253, 253, 253),
-    -10px 10px 25px rgb(179, 169, 169),
-    -10px -10px 25px rgb(204, 190, 190),
-    10px -10px 25px rgb(233, 221, 221);
+    text-shadow: 3px 0px 7px rgba(199, 198, 197, 0.8), 
+    -3px 0px 7px rgba(154, 153, 150, 0.8), 
+    0px 4px 7px rgba(116, 115, 114, 0.8);
 }
 
 .titreArgent {
