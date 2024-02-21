@@ -21,6 +21,11 @@
     box-shadow: rgba(255, 255, 255, 0.4) 0px 30px 90px;
 }
 
+.panierP {
+    text-shadow: 3px 3px 20px #c9c0c4,
+
+}
+
 .btnRendre {
     width: 100px;
     height: 40px;
